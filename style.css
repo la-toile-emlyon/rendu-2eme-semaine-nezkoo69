@@ -107,9 +107,6 @@ nav a{
 
 /* fin header */
 
-.image-section{
-    width: 100%;
-}
 
 /* deuxieme section */
 main{
@@ -139,6 +136,9 @@ main{
 }
 /* fin 2e section */
 
+.image-section{
+    width: 100%;
+}
 
 /* 3e section */
 
